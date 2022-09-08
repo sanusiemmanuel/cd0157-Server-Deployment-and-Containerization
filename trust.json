@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "Version": "2012-10-17",
     "Statement": [
@@ -10,3 +11,17 @@
         }
     ]
 }
+=======
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": "arn:aws:iam::971420046292:root"
+            },
+            "Action": "sts:AssumeRole"
+        }
+    ]
+}
+>>>>>>> e536ba06b5287397b28c5d5e377e9c417aed1814
